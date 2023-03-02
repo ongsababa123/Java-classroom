@@ -1,0 +1,7 @@
+01	tomato	-2	10
+02	water	5	5
+03	papaya	2	10
+04	iphone4	1	10000
+05	cream	5	50
+06	mama	5	5
+07	vaivai	5	5
